@@ -1,0 +1,16 @@
+Lists represents an ordered collection of elements. Using lists, we can access elements by their integer index
+(position in the list), and search for elements in the list. index start with 0, just like an array.
+
+Some useful classes which implement List interface are – ArrayList, CopyOnWriteArrayList, LinkedList, Stack and Vector.
+
+
+An ArrayList in Java represent a resizable list of objects. We can add, remove, find, sort and replace elements in this list.
+ArrayList is part of Java’s collection framework and implements Java’s List interface.
+
+Hierarchy of ArrayList class
+
+Java ArrayList class extends AbstractList class which implements List interface.
+The List interface extends Collection and Iterable interfaces in hierarchical order.
+
+
+

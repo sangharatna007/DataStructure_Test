@@ -1,0 +1,4 @@
+Hiding internal details and showing functionality is known as abstraction.
+For example phone call, we don't know the internal processing.
+
+In Java, we use abstract class and interface to achieve abstraction.
